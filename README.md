@@ -12,7 +12,7 @@
 
 - 🔭 Currently working with **Spring framework**
 
-- 📫 How to reach me **gabriel.mywork@proton.me**
+- 📫 Email contact: **gabriel.mywork@proton.me**
 
 - 👨‍💻 All of my projects are available at [https://...]() coming soon!
 
