@@ -30,4 +30,5 @@
 
 ![Snake animation](https://github.com/nerdonhub/nerdonhub/blob/output/github-contribution-grid-snake.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdonhub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=The ‎Nerd GitHub Stats:)
+![Gabriel, The Nerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdonhub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
+<img src="coding.gif" alt="coding image" style="width:425px;"/>
