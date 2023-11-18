@@ -72,7 +72,7 @@ public class Skills extends SoftwareDeveloper implements Backend {
   nerdonhub.mainLanguage('Java');
   nerdonhub.otherLanguages('C++', 'JavaScript', 'TypeScript');
   nerdonhub.databases('PostgreSQL', 'MySQL', 'SQLite', 'Oracle');
-  nerdonhub.technologies('Spring', 'Quarkus', 'Hibernate', 'JUnit', 'JPA', 'JDBC','Node.js', 'Bootstrap');
+  nerdonhub.technologies('Spring', 'Quarkus', 'Hibernate', 'JUnit', 'JPA', 'JDBC','Node.js', 'Bootstrap', 'Qt');
 }
 
 System.out.println("Welcome to my profile, make yourself at home!")
