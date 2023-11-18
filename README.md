@@ -69,9 +69,10 @@ public class Bio extends SoftwareDeveloper implements Backend {
 }
 
 public class Skills extends SoftwareDeveloper implements Backend {
-  nerdonhub.languages('Java', 'Typescript', 'Cpp');
-  nerdonhub.databases('PostgreSQL', 'MySQL', 'SQLite');
-  nerdonhub.frameworks('Spring', 'Hibernate', 'JPA', 'JDBC', 'Adafruit DHT Sensors', 'Bootstrap');
+  nerdonhub.mainLanguage('Java');
+  nerdonhub.otherLanguages('C++', 'JavaScript', 'TypeScript');
+  nerdonhub.databases('PostgreSQL', 'MySQL', 'SQLite', 'Oracle');
+  nerdonhub.technologies('Spring', 'Quarkus', 'Hibernate', 'JUnit', 'JPA', 'JDBC','Node.js', 'Bootstrap');
 }
 
 System.out.println("Welcome to my profile, make yourself at home!")
