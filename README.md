@@ -50,7 +50,7 @@ Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowl
   <a href="https://github.com/nerdonhub?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nerdonhub&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nerdonhub&theme=rogue)]
 
 ```java
 import br.com.nerdonhub.SoftwarDeveloper;
