@@ -80,3 +80,7 @@ System.out.println("Welcome to my profile, make yourself at home!")
 ```
 
 <img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdonhub&layout=compact&theme=radical)
+
+<a href="https://wa.me/73999592690/"><img alt="Contact me on WhatsApp!" title="Contact me on WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a> &nbsp;&nbsp; <a href="mailto:gabriel.mywork@proton.me"><img alt="Contact me via email!" title="Contact me via email!" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white"></a>
