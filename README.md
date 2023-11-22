@@ -27,7 +27,7 @@ Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowl
 
   - 👨‍💻 All of my projects are available at [https://...]() coming soon!
 
-  - ⚡ Fun fact: **I'm always studying in my spare time!**
+  - ⚡ Fun fact: **I'm always studying in my spare time! (and sometimes playing chess)**
 
 </details>
   
