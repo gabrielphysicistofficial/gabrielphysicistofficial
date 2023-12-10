@@ -17,7 +17,7 @@ Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowl
   
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  <summary>🧑 More about me... (click here)</summary>
 
   - 👯 Part of the [Hidroject Team](https://github.com/Hidroject) 🌱​
 
