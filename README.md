@@ -62,18 +62,19 @@ import br.com.nerdonhub.SoftwarDeveloper;
 @AllArgsConstructor
 public class Bio extends SoftwareDeveloper implements Backend {
   SoftwareDeveloper nerdonhub = new SoftwareDeveloper();
-  nerdonhub.name('Gabriel Ricardo Santos Sousa');
-  nerdonhub.title('Backend Engineer');
-  nerdonhub.company('Hidroject');
-  nerdonhub.location('Itanhém, BA');
+  nerd.name('Gabriel Ricardo Santos Sousa');
+  nerd.title('Backend Engineer');
+  nerd.company('Hidroject');
+  nerd.assistance('Clínica Afeto');
+  nerdonhub.location('Itanhém - BA');
 }
 
 public class Skills extends SoftwareDeveloper implements Backend {
-  nerdonhub.mainLanguage('Java');
-  nerdonhub.otherLanguages('C++', 'JavaScript', 'TypeScript');
-  nerdonhub.databases('PostgreSQL', 'MySQL', 'SQLite', 'Oracle');
-  nerdonhub.technologies('Spring Framework', 'Hibernate', 'JUnit', 'JPA', 'JDBC', 'Maven', 'Gradle', 'Bootstrap');
-  nerdonhub.technologiesInProgress('Amazon Web Services, Inc.', 'Quarkus framework', 'Node.js');
+  nerd.mainLanguage('Java');
+  nerd.otherLanguages('C++', 'TypeScript');
+  nerd.databases('PostgreSQL', 'MySQL', 'SQLite', 'Oracle Database');
+  nerd.technologies('Spring Framework', 'Hibernate', 'JUnit', 'JPA', 'JDBC', 'Maven', 'Gradle', 'Bootstrap');
+  nerd.inProgress('Amazon Web Services Inc. [AWS]', 'Quarkus framework', 'Node.js', 'Angular', 'React');
 }
 
 System.out.println("Welcome to my profile, make yourself at home!")
@@ -83,4 +84,4 @@ System.out.println("Welcome to my profile, make yourself at home!")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdonhub&layout=compact&theme=radical)
 
-<a href="https://bit.ly/nerdonhub-whatsapp"><img alt="Contact me via WhatsApp!" title="Contact me via WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a> &nbsp;&nbsp; <a href="https://bit.ly/nerdonhub-instagram"><img alt="Contact me via Direct on Instagram!" title="Contact me via Direct on Instagram!" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a> &nbsp;&nbsp; <a href="mailto:gabriel.mywork@proton.me"><img alt="Contact me via email!" title="Contact me via email!" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white"></a>
+<a href="https://bit.ly/nerdonhub-whatsapp"><img alt="Contact me via WhatsApp!" title="Contact me via WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a> &nbsp;&nbsp; <a href="https://bit.ly/nerdonhub-instagram"><img alt="Contact me via Direct on Instagram!" title="Contact me via Direct on Instagram!" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a> &nbsp;&nbsp; <a href="mailto:gabriel.mywork@proton.me">
