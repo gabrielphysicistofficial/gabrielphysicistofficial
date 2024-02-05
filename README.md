@@ -23,7 +23,7 @@ Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowl
 
   - 🔭 Currently working with **Spring framework**
 
-  - 📫 Email contact: [**gabriel.mywork@proton.me**](mailto:gabriel.mywork@proton.me)
+  - 📫 Email contact: [**gabriel.mywork@proton.me**](mailto:nerdwork@duck.com)
 
   - 👨‍💻 All of my projects are available at [https://...]() coming soon!
 
