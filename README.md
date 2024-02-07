@@ -23,7 +23,7 @@ Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowl
 
   - 🔭 Currently working with **Spring framework**
 
-  - 📫 Email contact: [**gabriel.mywork@proton.me**](mailto:nerdwork@duck.com)
+  - 📫 Email contact: [**nerdwork@duck.com**](mailto:nerdwork@duck.com)
 
   - 👨‍💻 All of my projects are available at [https://...]() coming soon!
 
@@ -62,7 +62,7 @@ import br.com.nerdonhub.SoftwarDeveloper;
 @AllArgsConstructor
 public class Bio extends SoftwareDeveloper implements Backend {
   SoftwareDeveloper nerdonhub = new SoftwareDeveloper();
-  nerd.name('Gabriel Ricardo Santos Sousa');
+  nerd.name('Gabriel R.S. Sousa');
   nerd.title('Backend Engineer');
   nerd.company('Hidroject');
   nerd.assistance('Clínica Afeto');
@@ -83,5 +83,3 @@ System.out.println("Welcome to my profile, make yourself at home!")
 <img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdonhub&layout=compact&theme=radical)
-
-<a href="https://bit.ly/nerdonhub-whatsapp"><img alt="Contact me via WhatsApp!" title="Contact me via WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a> &nbsp;&nbsp; <a href="https://bit.ly/nerdonhub-instagram"><img alt="Contact me via Direct on Instagram!" title="Contact me via Direct on Instagram!" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a> &nbsp;&nbsp; <a href="mailto:gabriel.mywork@proton.me">
