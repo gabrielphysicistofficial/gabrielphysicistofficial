@@ -70,5 +70,5 @@ public class Skills extends SoftwareDeveloper implements Backend {
 
 System.out.println("Welcome to my profile, make yourself at home!")
 ```
-
+... can you find the easter eggs?
 <img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"/>
