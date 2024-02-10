@@ -39,8 +39,9 @@
     <a href="https://github.com/nerdonhub/JBChat"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nerdonhub&repo=JBChat&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/nerdonhub/hidroject-release"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nerdonhub&repo=hidroject-release&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
-<p align="left">
-  <a href="https://github.com/nerdonhub?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<p>
+  Your time is limited, so don't waste it living someone else's life. - Steve Jobs
 </p>
 
 ![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nerdonhub&theme=rogue)
