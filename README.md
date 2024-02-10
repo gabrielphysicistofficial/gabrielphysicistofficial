@@ -1,3 +1,6 @@
+<p align="center">ATTENTION</p>
+<p align="center">Profile optimized for desktop clients!</p>
+
 [![GitHub followers](https://img.shields.io/github/followers/nerdonhub?style=social)]([] "GitHub followers") &nbsp;&nbsp; [![Total contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dnerdonhub%26type%3Djson "contributions")]([] "my total contributions") &nbsp;&nbsp; [![Profile views](https://komarev.com/ghpvc/?username=nerdonhub&style=flat)]([] "Profile views")
 
 <a href="https://cursos.alura.com.br/user/nerdonhub/fullCertificate/db85a86babba4c2d9f102bcb6a69e781"><img src="github-header-image.png" width="100%" height="auto"/></a>
