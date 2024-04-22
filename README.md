@@ -1,7 +1,7 @@
 <p align="center">ATTENTION</p>
 <p align="center">Profile optimized for desktop clients!</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/nerdonhub?style=social)]([] "GitHub followers") &nbsp;&nbsp; [![Total contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dnerdonhub%26type%3Djson "contributions")]([] "my total contributions") &nbsp;&nbsp; [![Profile views](https://komarev.com/ghpvc/?username=nerdonhub&style=flat)]([] "Profile views")
+[![Total contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dnerdonhub%26type%3Djson "contributions")]([] "my total contributions") &nbsp;&nbsp; [![Profile views](https://komarev.com/ghpvc/?username=nerdonhub&style=flat)]([] "Profile views")
 
 <a href="https://cursos.alura.com.br/user/nerdonhub/fullCertificate/db85a86babba4c2d9f102bcb6a69e781"><img src="github-header-image.png" width="100%" height="auto"/></a>
 <br/>
@@ -9,21 +9,16 @@
 <p>
 
 ##### Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowledge.
-##### My code tells a story, and I'm determined to make it extraordinary.
   
 <div>
 <details>
   <summary>More about me... (click here)</summary>
 
-  - 👯 Part of the [Hidroject Team](https://github.com/Hidroject) 🌱​
+  - Part of the [Hidroject Team](https://github.com/Hidroject) 🌱​
 
-  - 🔭 Currently working with **Spring framework**
+  - Contact: [**nerdwork@duck.com**](mailto:nerdwork@duck.com)
 
-  - 📫 Email contact: [**nerdwork@duck.com**](mailto:nerdwork@duck.com)
-
-  - 👨‍💻 All of my projects are available at [https://...]() coming soon!
-
-  - ⚡ Fun fact: **I'm always studying in my spare time! (and sometimes playing chess)**
+  - Future: **studying to be a skull in the brazilian army**
 
 </details>
   
@@ -74,5 +69,3 @@ public class Skills extends SoftwareDeveloper implements Backend {
 
 System.out.println("Welcome to my profile, make yourself at home!")
 ```
-... can you find the easter eggs?
-<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"/>
