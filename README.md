@@ -1,4 +1,4 @@
-<p align="center">ATTENTION</p>
+<p align="center">WARN</p>
 <p align="center">Profile optimized for desktop clients!</p>
 <br/>
 
