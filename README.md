@@ -43,15 +43,15 @@ import br.com.nerdonhub.SoftwarDeveloper;
 public class Bio extends SoftwareDeveloper implements Backend {
   SoftwareDeveloper nerdonhub = new SoftwareDeveloper();
   nerd.name('Gabriel R.S. Sousa');
-  nerd.title('Backend Engineer');
+  nerd.title('Software Engineer', 'Pentester', 'Digital Forensics Expert');
   nerd.company('Clínica Afeto', 'Hidroject');
 }
 
 public class Skills extends SoftwareDeveloper implements Backend {
-  nerd.mainLanguage('Java');
-  nerd.otherLanguages('C++', 'TypeScript');
-  nerd.databases('PostgreSQL', 'MySQL', 'SQLite');
-  nerd.technologies('Spring Framework', 'Hibernate', 'JUnit', 'JPA', 'JDBC', 'Maven', 'Gradle', 'Bootstrap');
+  nerd.mainLanguage('Java', 'C++');
+  nerd.otherLanguages('C', 'C#', 'JavaScript', 'TypeScript', 'Kotlin');
+  nerd.databases('PostgreSQL', 'MySQL', 'SQLite', 'Oracle Database', 'MS SQL Server');
+  nerd.technologies('Spring Framework', 'Hibernate', 'JUnit', 'JPA', 'JDBC', 'Maven', 'Gradle');
   nerd.inProgress('Amazon Web Services Inc. [AWS]', 'Quarkus framework', 'Vue.js');
 }
 
