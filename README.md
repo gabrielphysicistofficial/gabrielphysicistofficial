@@ -10,7 +10,6 @@
 <details>
   <summary>About me... (click here)</summary>
   
-  - Part of the [Hidroject Team](https://github.com/Hidroject) 🌱​
   - Contact: [**nerdwork@duck.com**](mailto:nerdwork@duck.com)
   - Future: **studying to be a skull in the brazilian army**
 </details>
