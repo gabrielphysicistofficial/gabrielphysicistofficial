@@ -54,6 +54,4 @@ public class Skills extends SoftwareDeveloper implements Backend {
   nerd.technologies('Spring Framework', 'Hibernate', 'JUnit', 'JPA', 'JDBC', 'Maven', 'Gradle');
   nerd.inProgress('Amazon Web Services Inc. [AWS]', 'Quarkus framework', 'Vue.js');
 }
-
-System.out.println("Welcome to my profile, make yourself at home!")
 ```
