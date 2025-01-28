@@ -11,7 +11,8 @@
   <summary>About me... (click here)</summary>
   
   - Contact: [**nerdwork@duck.com**](mailto:nerdwork@duck.com)
-  - Future: **studying to be a skull in the brazilian army**
+  - Academically, I am **a physicist**.
+  - A technology enthusiast.
 </details>
 </p>
 
