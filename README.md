@@ -13,7 +13,7 @@
   - Contact: [**nerdwork@duck.com**](mailto:nerdwork@duck.com)
   - Academically, I am **a physicist**.
   - A technology enthusiast.
-  - Alura: <p href="https://cursos.alura.com.br/user/nerdonhub/fullCertificate/db85a86babba4c2d9f102bcb6a69e781">Click here<p/>
+  - Alura: [Click here.](https://cursos.alura.com.br/user/nerdonhub/fullCertificate/db85a86babba4c2d9f102bcb6a69e781)
 </details>
 </p>
 
