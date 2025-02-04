@@ -6,7 +6,7 @@
 <details>
   <summary>About me... (click here)</summary>
   
-  - Contact: [**nerdwork@duck.com**](mailto:nerdwork@duck.com)
+  - Contact: [**gabriel.mywork@proton.me**](mailto:gabriel.mywork@proton.me)
   - Academically, I am **a physicist**.
   - A technology enthusiast.
   - Alura: [Click here.](https://cursos.alura.com.br/user/nerdonhub/fullCertificate/db85a86babba4c2d9f102bcb6a69e781)
