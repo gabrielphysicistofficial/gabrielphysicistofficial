@@ -23,7 +23,7 @@ import br.com.nerdonhub.SoftwarDeveloper;
 @AllArgsConstructor
 public class Bio extends SoftwareDeveloper implements Backend {
   SoftwareDeveloper nerdonhub = new SoftwareDeveloper();
-  nerd.name('Gabriel R.S. Sousa');
+  nerd.name('GABRIEL RICARDO SANTOS SOUSA');
   nerd.title('Software Engineer', 'Pentester', 'Digital Forensics Expert');
   nerd.company('Clínica Afeto', 'Hidroject');
 }
